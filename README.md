@@ -1,5 +1,5 @@
 # Trade Agent
-## AutoGPT based trading bot using Robinhood API
+## AutoGPT based trading bot using Robinhood API [WIP]
 
 ### About
 Using langchain ChatGPT and AutoGPT, create a AI agent that will trade stock using the Robinhood platform. Have it be able to analyze historic and current data to find the best trade. Have it research different trading strategies and implement them.
